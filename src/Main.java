@@ -41,6 +41,9 @@ public class Main {
             case "INVIERNO":
                 System.out.println("Es invierno");
                 break;
+            default:
+                System.out.println("No existe esta estación");
+                break;
         }
     }
 }
