@@ -30,7 +30,7 @@ public class Main {
         String estacion = "PRIMAVERA";
         switch (estacion){
             case "PRIMAVERA":
-                System.out.println("Es primavera");
+                System.out.println("Es primavera ");
                 break;
             case "VERANO":
                 System.out.println("Es verano");
